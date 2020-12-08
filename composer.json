@@ -1,5 +1,5 @@
 {
-    "name": "apparrish/ntlm-soap",
+    "name": "mlabrum/ntlm-soap",
     "description": "Provides a NTLM Soap implementation",
     "authors": [
         {
